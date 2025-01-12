@@ -1,7 +1,7 @@
 
 # seppun-kb
 
-seppun-kb is yet another X hotkey daemon inspired by shxkd, written with rust :)
+seppun-kb is yet another X hotkey daemon inspired by sxhkd, written with rust :)
 
 
 ## Features
